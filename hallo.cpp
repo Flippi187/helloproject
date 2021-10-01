@@ -7,7 +7,12 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello world" << endl;
+	string input;
 	
+	cout << "Hello world" << endl;
+	cout << "Wie heisst du? " << endl;
+	
+	cin >> input;
+	cout << "Hallo " << input << endl;
 	return 0;
 }
