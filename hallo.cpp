@@ -13,6 +13,6 @@ int main()
 	cout << "Wie heisst du? " << endl;
 	
 	cin >> input;
-	cout << "Hallo " << input << endl;
+	cout << "Hallo lieber(r) " << input << endl;
 	return 0;
 }
